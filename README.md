@@ -2,7 +2,7 @@
 Centralized configuration management server built with Spring Cloud Config to manage externalized properties across all microservices in the JDM Expo platform. <br>
 * **Student Name:** A.G.Asan Indusara
 * **Student Number:** 241722063
-* **GCP Project ID:** 
+* **GCP Project ID: project-83f3b203-b60d-481d-89d** 
 ## Technology Stack
 * **Language:** Java 25
 * **Framework:** Spring Boot
